@@ -1,1 +1,3 @@
 gtyg
+git pull origin master
+git fetch
